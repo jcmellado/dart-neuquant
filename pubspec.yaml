@@ -21,6 +21,7 @@
 name: neuquant
 version: 0.0.1
 author: Juan Mellado <jcmellado@gmail.com>
+homepage: https://code.google.com/p/dart-neuquant/
 description: Neural network image quantization (NeuQuant algorithm by Anthony Dekker, 1994)
 
 dependencies:
