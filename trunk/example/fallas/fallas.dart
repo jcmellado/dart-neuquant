@@ -24,8 +24,8 @@ import "dart:html";
 import "package:neuquant/neuquant.dart";
 
 void main() {
-  var image = query("#image") as ImageElement;
-  var canvas = query("#canvas") as CanvasElement;
+  var image = querySelector("#image") as ImageElement;
+  var canvas = querySelector("#canvas") as CanvasElement;
   var context = canvas.context2D;
   context.drawImage(image, 0, 0);
   var imageData = context.getImageData(0, 0, canvas.width, canvas.height);
