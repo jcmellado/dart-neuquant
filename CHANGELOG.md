@@ -1,5 +1,9 @@
 
-#### 0.3.0 - Jan 25, 2014
+#### 0.2.1 - Jan 25, 2014
+
+  * CHANGELOG.md typo
+   
+#### 0.2.0 - Jan 25, 2014
 
   * Updated README.md, LICENSE.txt and CHANGELOG.md 
 
