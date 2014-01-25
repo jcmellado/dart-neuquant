@@ -1,4 +1,8 @@
 
+#### 0.3.0 - Jan 25, 2014
+
+  * Updated README.md, LICENSE.txt and CHANGELOG.md 
+
 #### 0.1.0 - Nov 08, 2013
 
   * Added browser package dependency
